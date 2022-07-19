@@ -1,0 +1,1 @@
+# qrcodeAPIredirectTrial_fastapi
